@@ -61,5 +61,5 @@ Register at https://www.filestack.com/ to receive your api key.
 **View of Related Products and Product Reviews.**
 ![image of overall](./preview/Overall.gif)
 
-**Demo of review form in Product Reviews.(Compressed file)**\
+**Demo of review form in Product Reviews (Compressed file).**\
 ![image of review form](./preview/ReviewForm.gif)
