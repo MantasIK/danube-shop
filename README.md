@@ -58,8 +58,8 @@ Register at https://www.filestack.com/ to receive your api key.
 **Demo of product gallery and full-screen modal in Product Overview.**
 ![image of overview](./preview/Overview.gif)
 
-**View of related products and product reviews.**
+**View of Related Products and Product Reviews.**
 ![image of overall](./preview/Overall.gif)
 
-**Demo of review form.**\
+**Demo of review form in Product Reviews.**\
 ![image of review form](./preview/ReviewForm.gif)
